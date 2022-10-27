@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rasckan
 - 👀 I’m interested in coding my very own corner of the internet RASCKAN.COM :)
-- 🌱 I’m currently learning HTML and CSS to get my stuff done one neocities
+- 🌱 I’m currently learning HTML and CSS to get my stuff done on neocities
 - 📫 How to reach me in no way at the moment this will change.
 
 <!---
